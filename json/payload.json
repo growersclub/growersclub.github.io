@@ -1,0 +1,189 @@
+[
+    {
+        "name": "Flora Series",
+        "slug": "flora-series",
+        "type": "drain-to-waste",
+        "program": [
+            {
+                "name": "Seedling",
+                "stage": "growth",
+                "week": 1,
+                "nutrients": {
+                    "flora-micro": 2.5,
+                    "flora-gro": 2.5,
+                    "flora-bloom": 2.5,
+                    "diamond-nectar": 5,
+                    "flora-blend": 10
+                }
+            },
+            {
+                "name": "Early Growth",
+                "stage": "growth",
+                "week": 2,
+                "nutrients": {
+                    "flora-micro": 7.5,
+                    "flora-gro": 10,
+                    "flora-bloom": 2.5,
+                    "rapid-start": 2.5,
+                    "floralicious-plus": 1,
+                    "armor-si": 1.5,
+                    "diamond-nectar": 10,
+                    "flora-blend": 10,
+                    "cali-magic": 2.5
+                }
+            },
+            {
+                "name": "Late Growth",
+                "stage": "growth",
+                "week": 3,
+                "nutrients": {
+                    "flora-micro": 10,
+                    "flora-gro": 10,
+                    "flora-bloom": 5,
+                    "rapid-start": 2.5,
+                    "floralicious-plus": 1,
+                    "armor-si": 2,
+                    "diamond-nectar": 10,
+                    "flora-blend": 10,
+                    "cali-magic": 5
+                }
+            },
+            {
+                "name": "Transition",
+                "stage": "bloom",
+                "week": 4,
+                "nutrients": {
+                    "flora-micro": 7.5,
+                    "flora-gro": 7.5,
+                    "flora-bloom": 7.5,
+                    "rapid-start": 1,
+                    "floralicious-plus": 1,
+                    "armor-si": 2.5,
+                    "diamond-nectar": 5,
+                    "flora-blend": 5,
+                    "cali-magic": 5,
+                    "flora-nectar": 5
+                }
+            },
+            {
+                "name": "Early Bloom",
+                "stage": "bloom",
+                "week": 5,
+                "nutrients": {
+                    "flora-micro": 7.5,
+                    "flora-gro": 2.5,
+                    "flora-bloom": 10,
+                    "rapid-start": 1,
+                    "liquid-koolbloom": 1,
+                    "floralicious-plus": 1,
+                    "armor-si": 2.5,
+                    "diamond-nectar": 5,
+                    "flora-blend": 5,
+                    "cali-magic": 5,
+                    "flora-nectar": 5
+                }
+            },
+            {
+                "name": "Early Bloom",
+                "stage": "bloom",
+                "week": 6,
+                "nutrients": {
+                    "flora-micro": 7.5,
+                    "flora-gro": 2.5,
+                    "flora-bloom": 10,
+                    "rapid-start": 1,
+                    "liquid-koolbloom": 2.5,
+                    "floralicious-plus": 1,
+                    "armor-si": 2.5,
+                    "diamond-nectar": 5,
+                    "flora-blend": 5,
+                    "cali-magic": 5,
+                    "flora-nectar": 5
+                }
+            },
+            {
+                "name": "Mid Bloom",
+                "stage": "bloom",
+                "week": 7,
+                "nutrients": {
+                    "flora-micro": 7.5,
+                    "flora-gro": 2.5,
+                    "flora-bloom": 12.5,
+                    "rapid-start": 1,
+                    "liquid-koolbloom": 2.5,
+                    "floralicious-plus": 1,
+                    "armor-si": 2.5,
+                    "diamond-nectar": 5,
+                    "cali-magic": 5,
+                    "flora-nectar": 10
+                }
+            },
+            {
+                "name": "Mid Bloom",
+                "stage": "bloom",
+                "week": 8,
+                "nutrients": {
+                    "flora-micro": 7.5,
+                    "flora-gro": 2.5,
+                    "flora-bloom": 12.5,
+                    "rapid-start": 1,
+                    "liquid-koolbloom": 2.5,
+                    "floralicious-plus": 1,
+                    "armor-si": 2.5,
+                    "diamond-nectar": 5,
+                    "cali-magic": 5,
+                    "flora-nectar": 10
+                }
+            },
+            {
+                "name": "Mid Bloom",
+                "stage": "bloom",
+                "week": 9,
+                "nutrients": {
+                    "flora-micro": 7.5,
+                    "flora-bloom": 15,
+                    "rapid-start": 1,
+                    "liquid-koolbloom": 5,
+                    "floralicious-plus": 1,
+                    "armor-si": 2,
+                    "cali-magic": 5,
+                    "flora-nectar": 10
+                }
+            },
+            {
+                "name": "Late Bloom",
+                "stage": "bloom",
+                "week": 10,
+                "nutrients": {
+                    "flora-micro": 7.5,
+                    "flora-bloom": 15,
+                    "liquid-koolbloom": 5,
+                    "floralicious-plus": 1,
+                    "armor-si": 1.5,
+                    "cali-magic": 2.5,
+                    "flora-nectar": 10
+                }
+            },
+            {
+                "name": "Ripen",
+                "stage": "bloom",
+                "week": 11,
+                "nutrients": {
+                    "flora-micro": 5,
+                    "flora-bloom": 15,
+                    "floralicious-plus": 1,
+                    "flora-nectar": 10,
+                    "dry-koolbloom": 0.5
+                }
+            },
+            {
+                "name": "Flush",
+                "stage": "bloom",
+                "week": 12,
+                "nutrients": {
+                    "flora-kleen": 10
+                }
+            }
+        ]
+    }
+]
