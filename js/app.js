@@ -1,0 +1,1 @@
+../../gh-generator/public/js/app.js
